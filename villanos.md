@@ -4,4 +4,5 @@
 *  Green Goblin (Norman Osborn)
 *  Lizard (Rick Jones)
 *  Electro (Floyd Lawton)
+*  Ultron
 
